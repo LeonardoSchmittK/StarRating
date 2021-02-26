@@ -6,7 +6,6 @@
 .rating__star {
    cursor: pointer;
    color: #dabd18b2;
-
    transition: all ease-in-out 0.3s;
 }
 
