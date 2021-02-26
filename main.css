@@ -1,0 +1,16 @@
+.rating {
+   width: 700px;
+   min-width: 500px;
+}
+
+.rating__star {
+   cursor: pointer;
+   color: #dabd18b2;
+
+   transition: all ease-in-out 0.3s;
+}
+
+.active {
+   color: #dabc18;
+   transform: translateY(-1px);
+}
